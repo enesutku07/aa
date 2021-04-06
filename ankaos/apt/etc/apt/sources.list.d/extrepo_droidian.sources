@@ -1,6 +1,0 @@
-Architectures: amd64 arm64 armhf
-Components: main
-Suites: bullseye
-Uris: https://ankaos.org/dosya_y/ankaos_repo_1
-Types: deb
-Signed-By: /var/lib/extrepo/keys/hybris-mobian.asc
