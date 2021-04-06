@@ -1,0 +1,6 @@
+Architectures: amd64 arm64 armhf
+Components: main non-free
+Suites: mobian
+Uris: http://ankaos.org/dosya_y/ankaos_repo_2
+Types: deb deb-src
+Signed-By: /var/lib/extrepo/keys/mobian.asc
